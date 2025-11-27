@@ -230,6 +230,7 @@ body {
 
 .palavras-chave {
     margin-bottom: 1.5em;
+    font-weight: bold;
 }
 
 .resumo-projeto p {
